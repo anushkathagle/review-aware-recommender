@@ -78,7 +78,7 @@ outputs
 
 📄 Full Project Report
 
-View Complete Technical Report (PDF)
+[View Complete Technical Report (PDF)](https://github.com/anushkathagle/review-aware-recommender/blob/main/Natural%20Language%20Processing_project_report%20(2).docx)
 
 The 50-page report includes:
 
